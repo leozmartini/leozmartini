@@ -1,4 +1,4 @@
-#leozinn#0667
+leozinn#0667
 
 Cursando Ensino Médio e Estudando programação com foco em back-end.
 
