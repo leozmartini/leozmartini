@@ -7,5 +7,6 @@ Descobrindo e aprendendo sobre programação;
 - Fundamentos Front-end
 - JavaScript <3
 - Node.JS
-- SQL/Mongoose
+- NoSQL/MongoDB
 - Java
+- Spring
