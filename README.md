@@ -2,11 +2,13 @@
 
 Cursando Ensino Médio e Estudando programação com foco em back-end.
 
+Commito na Main.
+
 Descobrindo e aprendendo sobre programação;
 
 - Fundamentos Front-end
-- JavaScript <3
+- JavaScript 
 - Node.JS
-- NoSQL/MongoDB
+- MongoDB/NoSQL
 - Java
 - Spring
