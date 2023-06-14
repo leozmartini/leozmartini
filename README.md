@@ -1,14 +1,14 @@
-# leozinn#0667
+# Leonardo Diettrich de Martini
 
 Cursando Ensino Médio e Estudando programação com foco em back-end.
-
-Commito na Main.
 
 Descobrindo e aprendendo sobre programação;
 
 - Fundamentos Front-end
+- TypeScript
 - JavaScript 
 - Node.JS
+- Express
 - MongoDB/NoSQL
 - Java
 - Spring
