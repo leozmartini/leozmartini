@@ -1,7 +1,9 @@
 # 👾 Leonardo Diettrich de Martini 
 
 ## Sobre Mim
-Olá mundo! Sou conhecido como Leo. Sou apaixonado por tecnologias e desenvolvimento de software. Busco aprimorar meu conhecimento e entrar no mercado de trabalho de desenvolvimento FullStack.
+👋 Olá mundo! Sou conhecido como Leo. Sou apaixonado por tecnologias e desenvolvimento de software. Busco aprimorar meu conhecimento e entrar no mercado de trabalho de desenvolvimento FullStack.
+
+❤️ Nasci em Três Passos-RS, e tive meu primeiro contato com desenvolvimento de software quando criança, fazendo pequenas mudanças em plugins em java de servidores de Minecraft.
 
 ## Principais projetos
 - [react-audio-fl](https://github.com/leozmartini/react-audio-fl): Sistema de áudio em React e TypeScript.
